@@ -1,9 +1,6 @@
 # compiled output
 /dist
 /node_modules
-#ENV
-.env
-.env.*
 
 #Deploy
 fly.toml
